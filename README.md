@@ -1,3 +1,19 @@
+<!-- 
+
+install next ==> npm install next react react-dom
+
+ceate project
+==>npx create-next-app@latest Dashboard
+==>cd Dshboard
+
+run project==> npm run dev
+
+install taiwind
+==>npm install tailwindcss postcss autoprefixer
+==>npx tailwindcss init -p
+
+ 
+ -->
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
